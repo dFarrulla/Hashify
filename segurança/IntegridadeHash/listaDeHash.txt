@@ -1,0 +1,10 @@
+
+{CaminhoArquivo: C:\Users\Samsung\Documents\teste\test-1.txt,
+NomeArquivo: test-1.txt,
+Hash: c6f9c55629306b91dd44a3ebab3dd2e3}
+{CaminhoArquivo: C:\Users\Samsung\Documents\teste\test-3.txt,
+NomeArquivo: test-3.txt,
+Hash: 5849f2165d47987665eb240dc7522d4f}
+{CaminhoArquivo: C:\Users\Samsung\Documents\teste\teste-2.txt,
+NomeArquivo: teste-2.txt,
+Hash: 6a689ef79f1f2669ce4b400c644a700a}
